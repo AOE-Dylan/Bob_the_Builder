@@ -1,0 +1,15 @@
+header {
+  background-color: blue;
+  color: rgba(255,255,255,0.5);
+}
+
+.container {
+  background-color: orange;
+}
+
+#rebar {
+  background-color: #ffb3d1;
+  color: #ffb3d1;
+  margin-top: 750px;
+  padding: 100px 250px 250px 550px;
+}
