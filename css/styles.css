@@ -7,9 +7,9 @@ header {
   background-color: orange;
 }
 
-#rebar {
-  background-color: #ffb3d1;
-  color: #ffb3d1;
-  margin-top: 750px;
-  padding: 100px 250px 250px 550px;
-}
+.square {
+  background-color: #00FFFF;
+  color: #0000A0;
+  margin: 100px 100px 100px 100px;
+  border: 50px solid #DAA520;
+ }
